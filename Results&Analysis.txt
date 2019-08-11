@@ -1,0 +1,45 @@
+Discovered Functions/Results:
+
+-> brightness
+     - directly linked to magnitude of nv values
+     - decreased by sin(~), tan, cub
+
+-> subject
+     - almost all first iterations cause displacement
+     - 
+
+-> bkgrnd
+     -
+
+-> cos
+     - no clear interpretation (!)
+     - images change drastically between iterations
+     - seems to be some periodicity with even iterations
+
+-> cub
+
+-> sin6() [asin6() has opposite effects]
+     - small features
+	- dims
+	- shrinks
+     - some (very little) simple translation
+     -> sin, asin behave opposite to 6 variations (?)
+     - both sin and sin6 increase subject size
+
+-> tan()
+     - some change in bkgrnd (reason undetermined)
+     - unrecognizable after ~3 iterations (?)
+     - shrinks subject
+
+-> jitter
+     - SuperJitter is very effective; jitter is good, too
+     - might want to find a new adj algo for SJ
+
+**********************************************88
+Clear Classes:
+Piano
+Bubble
+
+
+
+*Avoid fish and other animals w/ fixed habitats
